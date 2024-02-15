@@ -1,0 +1,63 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "4d53b2127b72d4428da2c9c5dc955bb722e42dc0729bce37be6929ff5eb5fe2d"
+    }
+  ],
+  "containerPath" : "/Users/makbwk/Documents/iOS Projects/Destini/Destini.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/makbwk/Documents/iOS Projects/Destini/DerivedData/Destini/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/makbwk/Documents/iOS Projects/Destini/DerivedData/Destini/Build/Products",
+      "derivedDataPath" : "/Users/makbwk/Documents/iOS Projects/Destini/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/makbwk/Documents/iOS Projects/Destini/DerivedData/Destini/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/makbwk/Documents/iOS Projects/Destini/DerivedData/Destini/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/makbwk/Documents/iOS Projects/Destini/DerivedData/Destini/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "7A0A6847-960E-4388-9BC0-C9E8497EEAAD",
+          "TARGET_DEVICE_MODEL" : "iPhone15,5",
+          "TARGET_DEVICE_OS_VERSION" : "17.0.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

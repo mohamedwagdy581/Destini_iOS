@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/makbwk/Documents/iOS Projects/Destini/Destini/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLABLOGONewRound2</string>
+			<key>relativePath</key>
+			<string>./LABLOGONewRound2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>lablogoNewRound2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/makbwk/Documents/iOS Projects/Destini/Destini/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBackground</string>
+			<key>relativePath</key>
+			<string>./background.imageset</string>
+			<key>swiftSymbol</key>
+			<string>background</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/makbwk/Documents/iOS Projects/Destini/Destini/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLabBackground</string>
+			<key>relativePath</key>
+			<string>./labBackground.imageset</string>
+			<key>swiftSymbol</key>
+			<string>labBackground</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

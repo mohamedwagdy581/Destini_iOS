@@ -5,6 +5,91 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>71F61EB1-7D57-41CD-97DC-3580CE5B753D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>71F61EB1-7D57-41CD-97DC-3580CE5B753D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Destini project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Destini</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Destini</string>
+			<key>timeStartedRecording</key>
+			<real>729412410.79546595</real>
+			<key>timeStoppedRecording</key>
+			<real>729412417.02497101</real>
+			<key>title</key>
+			<string>Build Destini</string>
+			<key>uniqueIdentifier</key>
+			<string>71F61EB1-7D57-41CD-97DC-3580CE5B753D</string>
+		</dict>
+		<key>9833F81E-E030-4B5F-A9FA-3E62AABE67EC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9833F81E-E030-4B5F-A9FA-3E62AABE67EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Destini project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Destini</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Destini</string>
+			<key>timeStartedRecording</key>
+			<real>729412382.24771297</real>
+			<key>timeStoppedRecording</key>
+			<real>729412390.86202204</real>
+			<key>title</key>
+			<string>Build Destini</string>
+			<key>uniqueIdentifier</key>
+			<string>9833F81E-E030-4B5F-A9FA-3E62AABE67EC</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
